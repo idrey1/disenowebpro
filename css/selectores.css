@@ -1,0 +1,37 @@
+/*Esto es un comentario*/
+
+/*Selector universal*/
+/*  *{}  */
+
+/*Selector de etiqueta*/
+h1, h2, h3, h4, h5, h6 {
+    color:blue;
+}
+
+/*h2 {
+    color:red;
+}*/
+
+/*Ejemplo de Selector descendente*/
+div article p {
+    font-size: 20px;
+    color: black;
+}
+
+div p a{
+    color: red;
+}
+
+/*Ejemplo selector de clase*/
+.grande{
+    font-size: 28px;
+}
+
+/*Ejemplo selector de id*/
+#grande{
+    font-size: 28px;
+}
+
+.main article p {
+    font-size: 28px;
+}
