@@ -1,0 +1,10 @@
+@font-face{
+    font-family: "Agbalumo-Regular";
+    src:url('fonts/Agbalumo-Regular.ttf');
+}
+
+body{
+    font-family: "Agbalumo-Regular";
+}
+
+h1{font-weight: normal;}
